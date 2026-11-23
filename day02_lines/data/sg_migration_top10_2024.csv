@@ -1,0 +1,21 @@
+destination,destination_code,origin,origin_code,population_2024,direction,percentage
+Singapore,702,Malaysia,458,1553249,Into Singapore,54.66
+Singapore,702,China,156,533745,Into Singapore,18.78
+Singapore,702,India,356,377038,Into Singapore,13.27
+Singapore,702,Indonesia,360,180437,Into Singapore,6.35
+Singapore,702,United States of America,840,26705,Into Singapore,0.94
+Singapore,702,Australia,36,17222,Into Singapore,0.61
+Singapore,702,"China, Taiwan Province of China",158,11137,Into Singapore,0.39
+Singapore,702,"China, Hong Kong SAR",344,3584,Into Singapore,0.13
+Singapore,702,New Zealand,554,3378,Into Singapore,0.12
+Singapore,702,Canada,124,3197,Into Singapore,0.11
+Malaysia,458,Singapore,702,79926,From Singapore,29.64
+Australia,36,Singapore,702,68087,From Singapore,25.25
+United Kingdom,826,Singapore,702,45936,From Singapore,17.04
+Bangladesh,50,Singapore,702,12909,From Singapore,4.79
+Canada,124,Singapore,702,12878,From Singapore,4.78
+"China, Hong Kong SAR",344,Singapore,702,10660,From Singapore,3.95
+China,156,Singapore,702,9088,From Singapore,3.37
+New Zealand,554,Singapore,702,7784,From Singapore,2.89
+India,356,Singapore,702,5575,From Singapore,2.07
+Japan,392,Singapore,702,3472,From Singapore,1.29

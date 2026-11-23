@@ -1,0 +1,21 @@
+destination,destination_code,origin,origin_code,population_2024,direction,percentage,origin_lat,origin_lon,destination_lat,destination_lon
+Singapore,702,Malaysia,458,1553249,Into Singapore,54.66,2.528667,113.83708,1.366587,103.816925
+Singapore,702,China,156,533745,Into Singapore,18.78,32.498178,106.337289,1.366587,103.816925
+Singapore,702,India,356,377038,Into Singapore,13.27,22.686852,79.358105,1.366587,103.816925
+Singapore,702,Indonesia,360,180437,Into Singapore,6.35,-0.954404,101.892949,1.366587,103.816925
+Singapore,702,United States of America,840,26705,Into Singapore,0.94,39.538479,-97.650000,1.366587,103.816925
+Singapore,702,Australia,36,17222,Into Singapore,0.61,-24.129522,134.04972,1.366587,103.816925
+Singapore,702,"China, Taiwan Province of China",158,11137,Into Singapore,0.39,23.652408,120.868204,1.366587,103.816925
+Singapore,702,"China, Hong Kong SAR",344,3584,Into Singapore,0.13,22.448829,114.097769,1.366587,103.816925
+Singapore,702,New Zealand,554,3378,Into Singapore,0.12,-39.759,172.787,1.366587,103.816925
+Singapore,702,Canada,124,3197,Into Singapore,0.11,60.324287,-101.9107,1.366587,103.816925
+Malaysia,458,Singapore,702,79926,From Singapore,29.64,1.366587,103.816925,2.528667,113.83708
+Australia,36,Singapore,702,68087,From Singapore,25.25,1.366587,103.816925,-24.129522,134.04972
+United Kingdom,826,Singapore,702,45936,From Singapore,17.04,1.366587,103.816925,54.402739,-2.116346
+Bangladesh,50,Singapore,702,12909,From Singapore,4.79,1.366587,103.816925,24.214956,89.684963
+Canada,124,Singapore,702,12878,From Singapore,4.78,1.366587,103.816925,60.324287,-101.9107
+"China, Hong Kong SAR",344,Singapore,702,10660,From Singapore,3.95,1.366587,103.816925,22.448829,114.097769
+China,156,Singapore,702,9088,From Singapore,3.37,1.366587,103.816925,32.498178,106.337289
+New Zealand,554,Singapore,702,7784,From Singapore,2.89,1.366587,103.816925,-39.759,172.787
+India,356,Singapore,702,5575,From Singapore,2.07,1.366587,103.816925,22.686852,79.358105
+Japan,392,Singapore,702,3472,From Singapore,1.29,1.366587,103.816925,36.142538,138.44217

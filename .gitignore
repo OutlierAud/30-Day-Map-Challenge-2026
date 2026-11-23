@@ -1,0 +1,35 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Backup files
+*.bak
+
+# Local environments and dependency files
+venv/
+.env
+.env.*
+.envrc
+.python-version
+pyproject.toml
+uv.lock
+uv.toml
+requirements*.txt
+environment.yml
+environment.yaml
+
+# Archives and application backups
+*.[zZ][iI][pP]
+*.blend1
+
+# Folders excluded from GitHub
+/day06_vintage/
+/languages/
+/day18_null/
+/day20_hexagons/
