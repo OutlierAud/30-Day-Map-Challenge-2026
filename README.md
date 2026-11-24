@@ -113,7 +113,7 @@ Progress will be tracked throughout November.
 | 17 | Light & Dark | 🎬 [View Global Light Pollution]( |
 | 18 | Null | ⏳ |
 | 19 | Smell | ⏳ |
-| 20 | Hexagons | ⏳ |
+| 20 | Hexagons | Comparing where surveys detected the Okinawa Rail in 2007 and 2024. | [The Yanbaru Kuina Makes a Comeback](day20_hexagons/) |
 | 21 | OpenStreetMap | ⏳ |
 | 22 | Projections | ⏳ |
 | 23 | Taste | ⏳ |
