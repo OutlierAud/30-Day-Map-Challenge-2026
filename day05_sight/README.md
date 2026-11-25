@@ -2,7 +2,7 @@
 
 ### 5 November 2026 | Senses: Sight
 
-## 🎬 [Watch the animation](media/trading-starlight-for-streetlights.mp4)
+## 🎬 [Watch the animation](media/trading_starlight_for_streetlights.mp4)
 
 ## Jump To
 
