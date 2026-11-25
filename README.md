@@ -1,131 +1,77 @@
 # 30 Day Map Challenge 2026
 
-## Spatial Stories: Exploring Gold Coast, Australia Through Maps
+## Spatial Stories
 
-This repository documents my participation in the 2026 #30DayMapChallenge.
+I'm using the November [#30DayMapChallenge](https://30daymapchallenge.com/#2026-themes) to explore new ways of visualising and analysing data. Some days I try a tool I've never used before. Other days I take something I know and see what happens when I use it in a different way.
 
-Rather than treating the challenge as 30 isolated mapping exercises, I'm using it as an opportunity to explore the Gold Coast through a geographical lens. From its natural environment and wildlife to its urban landscapes, communities, and everyday life, each map offers a different perspective on the region, uncovering interesting patterns, spatial relationships, and stories that might otherwise go unnoticed.
-
-The project combines:
-
-- Spatial analysis
-- Civic technology
-- Environmental and social data
-- Cartographic design
-- Visual storytelling
-- Creative experimentation
-
+I started with koala sightings on the Gold Coast. From there, the prompts took me to migration in Singapore, land prices in Okinawa and typhoon tracks in the western North Pacific. They also gave me a reason to map a piece of music. [Browse the map gallery](https://outlieraud.github.io/post.html?cat=stories&id=30-day-map-challenge-2026).
 
 ## Contents
 
 - [Why This Challenge?](#why-this-challenge)
-- [Project Theme](#project-theme)
 - [Project Goals](#project-goals)
 - [Repository Structure](#repository-structure)
-- [Challenge Progress Tracker](#challenge-tracker)
+- [Challenge Progress Tracker](#challenge-progress-tracker)
 - [Licence](#licence)
-
----
 
 ## Why This Challenge?
 
-I'm transitioning towards a career in spatial analysis and data analytics, with plans to relocate to the Gold Coast, Australia.
+I come from a creative multimedia background, so I've always liked finding visual ways to tell a story. What I like about working with data is that making the visual can help me find the story in the first place.
 
-My background in creative multimedia communication has shaped my interest in storytelling, visual communication, and audience centred design. Data science introduced me to another dimension of visual communication: **visual analytics**, where visualisation becomes not just a means of communicating information, but a powerful tool for exploring data, uncovering patterns, and generating insights.
-
-This challenge presents an opportunity to get to know the city I'll soon call home, while bringing together my creative background with my growing skills in geospatial analysis and data-driven investigation.
-
-Through 30 maps, I hope to explore the Gold Coast from different perspectives, experiment with cartographic techniques, and uncover interesting patterns and stories along the way.
-
-My aim is to produce work that is:
-
-- **Analytical**: Grounded in data and thoughtful investigation.
-- **Insightful**: Revealing patterns, relationships, and unexpected perspectives.
-- **Visually engaging**: Using design to communicate information clearly and effectively.
-- **Exploratory**: Driven by curiosity, experimentation, and a willingness to try new approaches.
-
----
+What will I see if I group survey records into hexagons? What can an animation show me that I might miss in a still image? The prompts give me a reason to try things out and see what happens.
 
 ## Project Goals
 
 ### Technical
 
 - Strengthen my GIS and spatial analysis skills.
-- Explore new geospatial tools, workflows, and analytical techniques.
-- Work with real-world spatial datasets.
-- Develop a deeper understanding of geographic data and spatial relationships.
+- Experiment with new tools and ways to analyse real-world data.
+- Explore how choices about scale, grouping and representation shape what a map reveals.
 
 ### Creative
 
-- Experiment with unconventional cartographic approaches.
-- Apply visual communication principles to cartography and spatial storytelling.
-- Explore how visual design can enhance spatial analysis and communication.
-- Push the boundaries between data visualisation, storytelling, and art.
-
----
+- Try visual approaches such as animation, sound mapping and interactive maps.
+- Use visual design to make spatial patterns easier to see and interpret.
+- Explore where data visualisation, storytelling and art meet.
 
 ## Repository Structure
 
-```text
-
-30DayMapChallenge/
-├── .gitignore
-├── README.md
-│
-├── day01_points/
-│   ├── 01_fetch_koalas.py
-│   ├── Day01_Koala_Sightings.qgz
-│   ├── data/
-│   │   └── gold_coast_lga.gpkg
-│   └── maps/
-│
-├── Day02_Lines/
-│
-├── Day03_Polygons/
-│
-└── ...
-```
-
----
+Projects are organised by day, such as [Day 01 · Points](day01_points/) and [Day 20 · Hexagons](day20_hexagons/). Each folder holds the files for that project. Where available, the project README describes the data sources, tools and methods.
 
 ## Challenge Progress Tracker
 
-Progress will be tracked throughout November.
-
-| Day | Theme |  Study & Concept | Status |
-|------|--------|--------|
-| 01 | Points | Where can you spot wild koalas in the Gold Coast? | 🎬 [View Koala Sightings](day01_points/media/koala_sightings_gc.mov) |
-| 02 | Lines | Singapore 2024 Top Migration Origins and Destinations, mapped. | 🎆 [View Migration Map](day02_lines/singapore_migration_2024.png) |
-| 03 | Polygons | - | ⏳ |
-| 04 | Clusters | - | ⏳ |
-| 05 | Sight | 🎬 [View Global Light Pollution](day05_sight/media/trading_starlight_for_streetlights.mp4) |
-| 06 | Vintage | Re-creating Late Edo Period Japan on a map. Ny pet project from this series.  | ⏳ Actively working on this one! |
-| 07 | 10 Minute Map | - | ⏳ |
-| 08 | Utopia | - | ⏳ |
-| 09 | Urban-Rural | -  | ⏳ |
-| 10 | Prompting Only | A visualisation of the seven Norwood stages of hair loss, aka male pattern baldness. | 🎆 [View Hair Loss Map](day10_prompt_only/norwood-hair-loss-web-1180.png)  |
-| 11 | Sound | 🎬 [Watch The Music Dance](day11_sound/jungle_beats_sound_map.mp4) |
-| 12 | Power | ⏳ |
-| 13 | Interactions | From El Nino, to warm oceans, to erratic typhoons. | 🌐 [Try The Interactive Map](https://app.netlify.com/projects/wnptyphoonsst/overview) |
-| 14 | Borgesian Map | ⏳ |
-| 15 | Inside Out | Okinawa, Japan's Hawai'i and the price of space. | 🌐 [Try The 2-sided Interactive Map](https://okinawapriceofspace.netlify.app/) |
-| 16 | Collaborative Map | ⏳ |
-| 17 | Light & Dark | 🎬 [View Global Light Pollution]( |
-| 18 | Null | ⏳ |
-| 19 | Smell | ⏳ |
+| Day | Theme | Study & Concept | Status |
+| --- | --- | --- | --- |
+| 01 | Points | Where can you spot wild koalas on the Gold Coast? | [Gold Coast Koala Sightings](day01_points/media/koala_sightings_gc.mov) |
+| 02 | Lines | Singapore's largest migrant origins and destinations in the UN's mid-2024 estimates. | [Singapore, Connected](day02_lines/singapore_migration_2024.png) |
+| 03 | Polygons | — | Pending |
+| 04 | Clusters | — | Pending |
+| 05 | Senses: Sight | A flight over satellite imagery shows where artificial light stands out at night. | [Trading Starlight for Streetlights](day05_sight/media/trading_starlight_for_streetlights.mp4) |
+| 06 | Vintage | Re-creating late Edo period Japan on a map. | In progress |
+| 07 | 10 minute map | — | Pending |
+| 08 | Utopia | — | Pending |
+| 09 | Urban-rural | — | Pending |
+| 10 | Prompting only | A map of the scalp showing the seven Norwood stages of male pattern hair loss. | [The Seven Stages of Hair Loss](day10_prompt_only/norwood-hair-loss-web-1180.png) |
+| 11 | Senses: Sound | Drum hits and birdsong build up on a map of sound over time. | [Jungle Beats](day11_sound/jungle_beats_sound_map.mp4) |
+| 12 | Power | — | Pending |
+| 13 | Interactions | Western North Pacific typhoon tracks and sea surface temperatures along their paths. | [Typhoon Tracks and Ocean Temperatures](https://wnptyphoonsst.netlify.app/) |
+| 14 | Borgesian map | — | Pending |
+| 15 | Inside out | A two-sided map comparing population and residential land price changes across Okinawa's main island. | [The Price of Space](https://okinawapriceofspace.netlify.app/) |
+| 16 | Collaborative map | — | Pending |
+| 17 | Light & dark | How much of the world's coastline can we see by lighthouse alone? | [Where the Land Ends](day17_lightdark/day17_lightdark.mp4) |
+| 18 | NULL | — | Pending |
+| 19 | Senses: Smell | — | Pending |
 | 20 | Hexagons | Comparing where surveys detected the Okinawa Rail in 2007 and 2024. | [The Yanbaru Kuina Makes a Comeback](day20_hexagons/) |
-| 21 | OpenStreetMap | ⏳ |
-| 22 | Projections | ⏳ |
-| 23 | Taste | ⏳ |
-| 24 | Network | ⏳ |
-| 25 | Is This A Map? | ⏳ |
-| 26 | Water | ⏳ |
-| 27 | New Tool | ⏳ |
-| 28 | Feeling | ⏳ |
-| 29 | Raster | ⏳ |
-| 30 | Pen & Paper | ⏳ |
-
----
+| 21 | OpenStreetMap | — | Pending |
+| 22 | Projections | — | Pending |
+| 23 | Senses: Taste | — | Pending |
+| 24 | Network | — | Pending |
+| 25 | Is this a map? | — | Pending |
+| 26 | Water | — | Pending |
+| 27 | New tool | — | Pending |
+| 28 | Senses: Feeling | — | Pending |
+| 29 | Raster | — | Pending |
+| 30 | Pen & paper | — | Pending |
 
 ## Licence
 
